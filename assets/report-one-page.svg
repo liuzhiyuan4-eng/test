@@ -1,0 +1,16 @@
+<svg width="960" height="720" viewBox="0 0 960 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="960" height="720" rx="40" fill="#F5F8F4"/>
+  <rect x="80" y="56" width="800" height="608" rx="36" fill="white"/>
+  <rect x="124" y="102" width="250" height="20" rx="10" fill="#DCE8DE"/>
+  <rect x="124" y="152" width="710" height="120" rx="26" fill="#F6FAF7"/>
+  <rect x="124" y="302" width="220" height="302" rx="24" fill="#F8FBF9"/>
+  <rect x="370" y="302" width="220" height="302" rx="24" fill="#F8FBF9"/>
+  <rect x="616" y="302" width="218" height="302" rx="24" fill="#F8FBF9"/>
+  <rect x="154" y="336" width="160" height="14" rx="7" fill="#C8D7CB"/>
+  <rect x="154" y="368" width="120" height="14" rx="7" fill="#E0E8E1"/>
+  <rect x="400" y="336" width="160" height="14" rx="7" fill="#C8D7CB"/>
+  <rect x="400" y="368" width="120" height="14" rx="7" fill="#E0E8E1"/>
+  <rect x="646" y="336" width="160" height="14" rx="7" fill="#C8D7CB"/>
+  <rect x="646" y="368" width="120" height="14" rx="7" fill="#E0E8E1"/>
+  <text x="124" y="640" fill="#68776F" font-family="Arial, sans-serif" font-size="28">每月一页纸报告占位图</text>
+</svg>

@@ -1,0 +1,15 @@
+<svg width="960" height="720" viewBox="0 0 960 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="960" height="720" rx="40" fill="#F4F7F4"/>
+  <rect x="70" y="60" width="820" height="600" rx="36" fill="white"/>
+  <rect x="112" y="104" width="250" height="18" rx="9" fill="#DCE8DE"/>
+  <rect x="112" y="154" width="736" height="214" rx="28" fill="#F7FAF7"/>
+  <circle cx="320" cy="262" r="94" fill="#DDEBE0"/>
+  <circle cx="320" cy="262" r="52" fill="#BFD8C7"/>
+  <circle cx="320" cy="262" r="26" fill="#3F8A64"/>
+  <rect x="470" y="190" width="310" height="22" rx="11" fill="#CBD9CE"/>
+  <rect x="470" y="230" width="240" height="16" rx="8" fill="#E0E8E1"/>
+  <rect x="470" y="262" width="280" height="16" rx="8" fill="#E0E8E1"/>
+  <rect x="470" y="294" width="210" height="16" rx="8" fill="#E0E8E1"/>
+  <rect x="112" y="402" width="736" height="216" rx="28" fill="#F8FBF9"/>
+  <text x="112" y="646" fill="#68776F" font-family="Arial, sans-serif" font-size="28">影像模式研究摘要占位图</text>
+</svg>

@@ -1,0 +1,12 @@
+<svg width="960" height="720" viewBox="0 0 960 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="960" height="720" rx="40" fill="#F4F8F5"/>
+  <rect x="64" y="60" width="832" height="600" rx="34" fill="white"/>
+  <rect x="104" y="102" width="230" height="18" rx="9" fill="#DCE8DE"/>
+  <rect x="104" y="152" width="754" height="160" rx="28" fill="#F5FAF6"/>
+  <path d="M180 280V216L262 170L346 216V280" stroke="#3F8A64" stroke-width="16" stroke-linejoin="round"/>
+  <path d="M218 280V236H308V280" stroke="#3F8A64" stroke-width="16" stroke-linejoin="round"/>
+  <rect x="104" y="340" width="240" height="248" rx="26" fill="#F8FBF9"/>
+  <rect x="372" y="340" width="228" height="248" rx="26" fill="#F8FBF9"/>
+  <rect x="628" y="340" width="230" height="248" rx="26" fill="#F8FBF9"/>
+  <text x="104" y="634" fill="#68776F" font-family="Arial, sans-serif" font-size="28">门店预约成功页信息结构示意</text>
+</svg>

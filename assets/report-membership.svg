@@ -1,0 +1,11 @@
+<svg width="960" height="720" viewBox="0 0 960 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="960" height="720" rx="40" fill="#F6F9F6"/>
+  <rect x="60" y="60" width="840" height="600" rx="32" fill="white"/>
+  <rect x="98" y="100" width="260" height="18" rx="9" fill="#DCE8DE"/>
+  <rect x="98" y="146" width="764" height="240" rx="30" fill="#F4F8F5"/>
+  <path d="M150 286C220 228 286 214 348 244C410 274 474 324 536 314C598 304 662 232 724 198" stroke="#3F8A64" stroke-width="16" stroke-linecap="round"/>
+  <circle cx="724" cy="198" r="18" fill="#3F8A64"/>
+  <rect x="98" y="420" width="360" height="198" rx="26" fill="#F8FBF9"/>
+  <rect x="490" y="420" width="372" height="198" rx="26" fill="#F8FBF9"/>
+  <text x="98" y="646" fill="#68776F" font-family="Arial, sans-serif" font-size="28">会员长期价值展示示意</text>
+</svg>
