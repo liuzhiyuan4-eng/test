@@ -1,0 +1,15 @@
+<svg width="960" height="720" viewBox="0 0 960 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="960" height="720" rx="40" fill="#F4F8F4"/>
+  <rect x="56" y="56" width="848" height="608" rx="32" fill="white"/>
+  <rect x="96" y="96" width="240" height="18" rx="9" fill="#DCE8DE"/>
+  <rect x="96" y="134" width="180" height="42" rx="16" fill="#EAF4EC"/>
+  <rect x="96" y="210" width="768" height="108" rx="24" fill="#F6FAF7"/>
+  <rect x="126" y="246" width="158" height="18" rx="9" fill="#7EAF93"/>
+  <rect x="126" y="278" width="280" height="12" rx="6" fill="#D3DED5"/>
+  <rect x="96" y="348" width="240" height="262" rx="24" fill="#F8FBF9"/>
+  <rect x="360" y="348" width="240" height="262" rx="24" fill="#F8FBF9"/>
+  <rect x="624" y="348" width="240" height="262" rx="24" fill="#F8FBF9"/>
+  <path d="M126 542C160 500 194 468 228 446C262 424 296 398 330 372" stroke="#3F8A64" stroke-width="16" stroke-linecap="round"/>
+  <circle cx="330" cy="372" r="18" fill="#3F8A64"/>
+  <text x="96" y="644" fill="#68776F" font-family="Arial, sans-serif" font-size="28">售后状态页结构示意</text>
+</svg>
