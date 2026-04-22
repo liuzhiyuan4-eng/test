@@ -1,0 +1,178 @@
+[
+  {
+    "id": "UT-2026-04-05",
+    "testName": "【OS16.1】【小布记忆】【个性化引擎】大纲 — 旅行合集\\知识合集\\一键闪记-相机大师参数提取&导入",
+    "testDate": "2026-04-25",
+    "version": "16.1",
+    "chartLabel": "小布记忆",
+    "issueCount": 11,
+    "p0Count": 2,
+    "p1Count": 4,
+    "adoptedCount": 6,
+    "adoptionRate": 81,
+    "description": "一句话总结：用户对旅行合集的信息整合提炼功能感到认可，但在AI总结的信息内容上，用户感到有冗余信息、不够个性化的问题，地图缺少查看交通相关的功能，旅行合集缺少能输出行程规划相关功能，令用户对整体功能评分下降。",
+    "sourceLink": "https://odocs.myoas.com/sheets/o4GwQujZ6dHdoYup/AFrV3/  ",
+    "sourcePassword": "XXXXX",
+    "issues": [
+      "地点提取出现疏漏：使用旅行合集时，记忆中的帖子提到的地点并没有完整提取，导致 AI 总结、旅行地图和底部地点导航都出现疏漏。",
+      "AI 总结偏概括，缺少更贴近用户意图的个性化信息。",
+      "旅行地图地点信息缩放操作体验不佳。"
+    ],
+    "projectName": "小布记忆-旅行合集",
+    "tags": ["地图使用感差", "AI总结效果不够个性化", "收藏功能不明显", "缺少用户重要的规划功能", "缺少重要的路线耗时显示功能"]
+  },
+  {
+    "id": "UT-2026-04-04",
+    "testName": "OS16.0【小布实景】可用性测试",
+    "testDate": "2026-04-19",
+    "version": "16.0",
+    "chartLabel": "小布实景",
+    "issueCount": 8,
+    "p0Count": 1,
+    "p1Count": 3,
+    "adoptedCount": 5,
+    "adoptionRate": 76,
+    "description": "一句话描述：用户对【小布实景】总体偏好评，小布实景用起来响应及时流畅，抗干扰能力强，一点即答功能非常适合实景场景，实用性高，界面舒适有科技感。但回答质量、语音对话的“人感”、以及交互与界面设计（如历史对话入口、收音动效、一点即答反馈等）还有改进空间。尤其是回答质量与豆包仍有较大差距。",
+    "sourceLink": "https://odocs.myoas.com/sheets/YHRUCxzzGHO3yKFk/ZGqX1/  ",
+    "sourcePassword": "XXXXXX",
+    "issues": [
+      "小布实景回答过于简单。思考逻辑链较短，无法深度理解用户的真实意图，仅能根据表面信息内容回答。",
+      "用户明确要求给出答案，小布有时会拒绝回答，把问题推回给用户或者表述不知道。",
+      "小布解数学题，会不断否定掉自己的回答。"
+    ],
+    "projectName": "小布实景",
+    "tags": ["AI大模型能力差", "认知存在负担", "识别不智能", "人机感重"]
+  },
+  {
+    "id": "UT-2026-04-03",
+    "testName": "「16.0」慢动作&拼图「可用性测试」用研文档",
+    "testDate": "2026-04-16",
+    "version": "16.0",
+    "chartLabel": "慢动作拼图",
+    "issueCount": 14,
+    "p0Count": 3,
+    "p1Count": 5,
+    "adoptedCount": 7,
+    "adoptionRate": 68,
+    "description": "本品优势：操作可控本品得分高于剪映（本品 4.75，剪映 3.81）本品：用户操作和控制容易，能自由掌控实况慢动作功能；竞品剪映：操作控制的自由度和易用性不足。",
+    "sourceLink": "https://odocs.myoas.com/sheets/WlArzb2G2jFBmpA2/zbCFX/ ",
+    "sourcePassword": "XXXXXX",
+    "issues": [
+      "【图片长按才能拖动排序不符合用户习惯，用户习惯直接拖动】用户习惯直接拖动对图片进行排序的交互，当前长按才能触发拖动排序的交互不习惯，不容易发现。",
+      "【图片缩放/旋转后找不到恢复初始状态的方式】1、在初次使用拼图时，用户对单张图片进行缩放或者旋转后，不知道如何还原。",
+      "【照片拖动容易有误触】图片拖动操作手感不是很好，旋转过于灵敏，对图片缩放也容易误触到旋转,有时候会出现拖不了的情况。"
+    ],
+    "projectName": "相册",
+    "tags": ["交互操作体验待优化", "部分UI提示不够明显", "缺少核心功能"]
+  },
+  {
+    "id": "UT-2026-04-02",
+    "testName": "OS16.0【内容传送门】可用性测试",
+    "testDate": "2026-04-11",
+    "version": "16.0",
+    "chartLabel": "内容传送门",
+    "issueCount": 9,
+    "p0Count": 1,
+    "p1Count": 4,
+    "adoptedCount": 6,
+    "adoptionRate": 88,
+    "description": "可用性测试本品得分（3.97）＜vivo（4.00）＜荣耀（4.15） No GO与竞品仍有较大差异；部分核心场景不可用，整体操作响应慢，细节反馈需打磨。",
+    "sourceLink": "https://odocs.myoas.com/sheets/loqeW9gMMPhwNLAn/ ",
+    "sourcePassword": "XXXXXX",
+    "issues": [
+      "相册内点按无法唤起拖拽，好不容易唤起后触发抠图动效、触发识别文字 。",
+      "识别响应慢-拖拽时应用识别速度慢，需长时间拖动才可能触发。",
+      "内容丢失/操作不连贯/操作有难度-曲面屏底部因弧度导致拖拽判定范围过小，需将应用拖至弧度区域才能操作，易出现 “划出屏幕” 的情况，选择应用难度大。"
+    ],
+    "projectName": "传送门",
+    "tags": ["交互操作细节待打磨", "整体响应速度慢", "交互反馈不足", "反馈提示逻辑反直觉"]
+  },
+  {
+    "id": "UT-2026-03-04",
+    "testName": "影像大师模式参数设置测试",
+    "testDate": "2026-03-26",
+    "version": "天池",
+    "chartLabel": "影像参数",
+    "issueCount": 10,
+    "p0Count": 2,
+    "p1Count": 4,
+    "adoptedCount": 5,
+    "adoptionRate": 73,
+    "description": "参数项名称专业性较强，普通用户难以形成快速试拍路径，预设组合与手动设置之间的切换逻辑也不够明确。",
+    "sourceLink": "",
+    "sourcePassword": "XXXXX",
+    "issues": [
+      "参数术语专业门槛高，新手难以理解。",
+      "预设与手动设置切换关系不够清楚。",
+      "缺少从结果出发的引导，试拍成本偏高。"
+    ],
+    "projectName": "影像产品",
+    "tags": ["影像", "拍摄流程"]
+  },
+  {
+    "id": "UT-2026-03-03",
+    "testName": "线下预约到店服务路径验证",
+    "testDate": "2026-03-20",
+    "version": "三江源",
+    "chartLabel": "预约到店",
+    "issueCount": 4,
+    "p0Count": 0,
+    "p1Count": 2,
+    "adoptedCount": 3,
+    "adoptionRate": 91,
+    "description": "整体流程顺畅，但用户希望在预约成功页直接看到门店停车、排队和到店凭证信息，以减少出发前的不确定感。",
+    "sourceLink": "",
+    "sourcePassword": "XXXXX",
+    "issues": [
+      "预约成功后缺少到店前的必要准备信息。",
+      "停车与排队说明不足，用户线下决策成本高。",
+      "到店凭证入口不突出，成功页闭环感不强。"
+    ],
+    "projectName": "线下服务",
+    "tags": ["预约", "门店体验"]
+  },
+  {
+    "id": "UT-2026-03-02",
+    "testName": "穿戴设备绑定引导体验评估",
+    "testDate": "2026-03-12",
+    "version": "其他",
+    "chartLabel": "穿戴绑定",
+    "issueCount": 7,
+    "p0Count": 1,
+    "p1Count": 3,
+    "adoptedCount": 4,
+    "adoptionRate": 84,
+    "description": "权限授权的先后顺序让部分用户误以为绑定已经完成，导致在最后一步离开流程；关键状态提示需要更明确。",
+    "sourceLink": "",
+    "sourcePassword": "XXXXX",
+    "issues": [
+      "授权顺序导致用户误判绑定已完成。",
+      "关键状态反馈不明显，流程中断风险高。",
+      "最后一步价值感不足，离开率偏高。"
+    ],
+    "projectName": "IoT 连接",
+    "tags": ["IoT", "绑定引导"]
+  },
+  {
+    "id": "UT-2026-03-01",
+    "testName": "社区创作发布页首轮走查",
+    "testDate": "2026-03-05",
+    "version": "16.1",
+    "chartLabel": "发布页走查",
+    "issueCount": 12,
+    "p0Count": 2,
+    "p1Count": 5,
+    "adoptedCount": 4,
+    "adoptionRate": 66,
+    "description": "内容创作者对封面、话题和权限设置的优先顺序理解不一致，发布页内的“草稿保存”反馈也不够明显。",
+    "sourceLink": "",
+    "sourcePassword": "XXXXX",
+    "issues": [
+      "封面、话题和权限同时决策，认知压力较大。",
+      "草稿保存反馈不明显，安全感不足。",
+      "发布设置与内容编辑混在一起，节奏被打断。"
+    ],
+    "projectName": "内容社区",
+    "tags": ["创作工具", "发布体验"]
+  }
+]

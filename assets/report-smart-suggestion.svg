@@ -1,0 +1,15 @@
+<svg width="960" height="720" viewBox="0 0 960 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="960" height="720" rx="40" fill="#F6F9F6"/>
+  <rect x="64" y="64" width="832" height="592" rx="32" fill="white"/>
+  <rect x="100" y="104" width="220" height="18" rx="9" fill="#DCE8DE"/>
+  <rect x="100" y="150" width="760" height="148" rx="28" fill="#F5FAF6"/>
+  <rect x="132" y="182" width="220" height="24" rx="12" fill="#99C1A9"/>
+  <rect x="132" y="222" width="420" height="16" rx="8" fill="#D4DDD5"/>
+  <rect x="132" y="250" width="300" height="16" rx="8" fill="#E4EBE5"/>
+  <rect x="100" y="338" width="350" height="268" rx="28" fill="#F8FBF9"/>
+  <rect x="480" y="338" width="380" height="268" rx="28" fill="#EEF5EF"/>
+  <circle cx="668" cy="472" r="96" fill="#DCEADD"/>
+  <path d="M608 478H726" stroke="#3F8A64" stroke-width="18" stroke-linecap="round"/>
+  <path d="M668 418V538" stroke="#3F8A64" stroke-width="18" stroke-linecap="round"/>
+  <text x="100" y="640" fill="#68776F" font-family="Arial, sans-serif" font-size="28">智能建议卡片场景说明示意</text>
+</svg>

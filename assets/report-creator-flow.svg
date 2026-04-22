@@ -1,0 +1,16 @@
+<svg width="960" height="720" viewBox="0 0 960 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="960" height="720" rx="40" fill="#F5F8F5"/>
+  <rect x="72" y="58" width="816" height="604" rx="34" fill="white"/>
+  <rect x="112" y="102" width="220" height="18" rx="9" fill="#DCE8DE"/>
+  <rect x="112" y="152" width="340" height="440" rx="30" fill="#F6FAF7"/>
+  <rect x="492" y="152" width="336" height="208" rx="30" fill="#F6FAF7"/>
+  <rect x="492" y="384" width="336" height="208" rx="30" fill="#F6FAF7"/>
+  <path d="M192 238H372" stroke="#BFD2C3" stroke-width="14" stroke-linecap="round"/>
+  <path d="M192 274H336" stroke="#D4DFD6" stroke-width="14" stroke-linecap="round"/>
+  <path d="M192 310H360" stroke="#D4DFD6" stroke-width="14" stroke-linecap="round"/>
+  <path d="M546 248H744" stroke="#3F8A64" stroke-width="14" stroke-linecap="round"/>
+  <path d="M546 282H710" stroke="#D4DFD6" stroke-width="14" stroke-linecap="round"/>
+  <path d="M546 476H744" stroke="#C4D5C8" stroke-width="14" stroke-linecap="round"/>
+  <path d="M546 510H690" stroke="#D4DFD6" stroke-width="14" stroke-linecap="round"/>
+  <text x="112" y="636" fill="#68776F" font-family="Arial, sans-serif" font-size="28">创作发布流程占位图</text>
+</svg>
