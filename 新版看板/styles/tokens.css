@@ -1,0 +1,23 @@
+:root {
+  --bg: #f5f7f3;
+  --bg-strong: #eef3ed;
+  --surface: rgba(255, 255, 255, 0.9);
+  --surface-strong: #ffffff;
+  --surface-muted: #f8faf8;
+  --surface-line: rgba(18, 34, 28, 0.08);
+  --text-primary: #15211c;
+  --text-secondary: #4d5a54;
+  --text-tertiary: #77847d;
+  --accent: #3f8a64;
+  --accent-soft: rgba(63, 138, 100, 0.12);
+  --accent-strong: #2d6f4e;
+  --warning: #a86c31;
+  --shadow-soft: 0 14px 36px rgba(24, 36, 31, 0.08);
+  --shadow-card: 0 8px 20px rgba(28, 43, 36, 0.06);
+  --radius-xl: 28px;
+  --radius-lg: 20px;
+  --radius-md: 16px;
+  --radius-sm: 12px;
+  --font-sans: "Avenir Next", "PingFang SC", "Microsoft YaHei UI", "Noto Sans SC",
+    sans-serif;
+}
